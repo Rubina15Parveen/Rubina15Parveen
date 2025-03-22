@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Passionate about ML, AI, Recommender Systems, and Time Series Forecasting  
+  🚀 Passionate about transforming raw data into meaningful predictions, crafting intelligent algorithms, and solving real-world problems with machine learning.
   <br>  
   📊 Love working with data and optimizing ML pipelines  
   <br>  
