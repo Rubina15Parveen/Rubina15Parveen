@@ -35,12 +35,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/rubina15parveen/" target="_blank">
     <!---<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> -->
-    <!--<a href="https://www.flaticon.com/free-icons/linkedin" title="linkedin icons">Linkedin icons created by ZFreet - Flaticon</a> -->
-    <img src="https://www.flaticon.com/free-icons/linkedin">
   </a>
   <a href="rubinaparveen1596@gmail.com">
    <!-- <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white"> -->
-   <!-- <a href="https://www.flaticon.com/free-icons/gmail" title="gmail icons">Gmail icons created by Freepik - Flaticon</a> -->
-    <img src = "https://www.flaticon.com/free-icons/gmail">
   </a>
 </p>
