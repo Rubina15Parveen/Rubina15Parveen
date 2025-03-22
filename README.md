@@ -36,7 +36,4 @@
   <a href="https://www.linkedin.com/in/rubina15parveen/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="rubinaparveen1596@gmail.com">
-   <img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
 </p>
