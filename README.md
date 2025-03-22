@@ -1,39 +1,22 @@
-<h1 align="center">Welcome to my GitHub. I'm <span style="color:#00A6FB;">Rubina Parveen</span></h1>
-
+<h1 align="center"> 💫 Welcome to My GitHub! I am Rubina Parveen. </h1>
+<h3 align="center">Something About Me</h3>
 <p align="center">
-  <b> A Data Enthusiast</b>  
+I'm a UT Dallas graduate with a curiosity for data, AI, and machine learning. Whether it's analyzing trends, building ML models, or optimizing pipelines, I love uncovering insights and making data work smarter.<br><br>My journey started at Accenture as an Application Development Associate, then I worked as a Student Assistant at UTD, and now I’m a Data Scientist at Community Dreams Foundation and Hydhan LLC, turning raw data into meaningful impact.<br><br>I’m also fascinated by psychology and human behavior—understanding how people think, make decisions, and interact with the world. This passion fuels my interest in AI, as I love exploring how machines can learn, adapt, and even mirror aspects of human intelligence.<br><br>When I'm not deep in datasets, you’ll find me singing, experimenting with new dishes, or baking up something delicious! 🍰🎶<br><br>Let’s connect and create something amazing with data! 🚀
+</p>
+
+<h3 align="center">Technical Skills</h3>
+<p align="center">
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 </p>
 
 <p align="center">
-  🚀 Passionate about transforming raw data into meaningful predictions, crafting intelligent algorithms, and solving real-world problems with machine learning.
-  <br>  
-  📊 Love working with data and optimizing ML pipelines  
-  <br>  
-  📚 Psychology & Tech geek, always learning something new!  
-  <br>
-  🎤 Love to sing and listen to Hindi songs in my free time.
+  # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rubina15Parveen&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Rubina15Parveen&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubina15Parveen&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 </p>
-
-<hr>
-
-<h3 align="center">About Me</h3>
-
-<p align="center">
-  I love diving into machine learning, building models, and exploring data.  
-  <br>  
-  In my free time, you’ll find me reading about human behavior, tackling fun coding challenges, or experimenting with new algorithms.  
-</p>
-
-<p align="center">
-  💡 <i>Let's build something amazing together!</i>  
-</p>
-
-<hr>
 
 <h3 align="center">📫 Connect with me</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rubina15parveen/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubina15parveen/) 
 </p>
