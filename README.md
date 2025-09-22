@@ -10,6 +10,6 @@ I'm a Computer Engineering graduate from University of Texas at Dallas with a pa
 
 
 # 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rubina15parveen/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubina15parveen/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
